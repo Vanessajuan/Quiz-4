@@ -1,0 +1,31 @@
+header{
+    background-color: antiquewhite;
+    text-align: center;
+    border : 1px solid black;
+    font-size: large;
+}
+.con1{
+    text-align: center;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 0px;
+    margin-top: 0px;
+    
+}
+.con2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.con3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
